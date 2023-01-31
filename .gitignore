@@ -43,3 +43,5 @@ sitemap-*.xml
 
 .idea/
 .vscode/
+
+public/*.js
